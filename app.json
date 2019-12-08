@@ -9,7 +9,7 @@
   ],
   "success_url": "/",
   "website": "https://ogaas.dev",
-  "repository": "https://github.com/rjyo/ogaas-heroku",
+  "repository": "https://github.com/rjyo/test-heroku",
   "formation": {
     "web": {
       "quantity": 1,
