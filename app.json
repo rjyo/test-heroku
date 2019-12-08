@@ -1,0 +1,21 @@
+{
+  "name": "Ogaas API Server",
+  "description": "Easy-to-use web service for generating beautiful og-images.",
+  "keywords": [
+    "api",
+    "ogaas",
+    "heroku",
+    "og-image"
+  ],
+  "success_url": "/",
+  "website": "https://ogaas.dev",
+  "repository": "https://github.com/rjyo/ogaas-heroku",
+  "formation": {
+    "web": {
+      "quantity": 1,
+      "size": "free"
+    }
+  },
+  "stack": "container",
+  "addons": []
+}
